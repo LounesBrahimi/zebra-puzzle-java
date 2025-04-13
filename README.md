@@ -46,3 +46,8 @@ Et surtout, vous devez résoudre le puzzle à partir de **15 règles logiques**.
 13. Le Japonais joue aux échecs.
 14. Le Norvégien habite à côté de la maison bleue.
 15. Chaque attribut est unique par maison.
+
+> 💡 À noter :
+> Bien que cette version cherche "qui possède le zèbre ?", certaines versions historiques de l'énigme posent la question : **"Qui a un poisson rouge ?"**  
+> Le puzzle reste identique — seul l’animal à découvrir change.
+
