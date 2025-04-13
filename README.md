@@ -6,7 +6,7 @@
 Ce projet est une implémentation optimisée en Java du célèbre **Zebra Puzzle**, aussi appelé *l'énigme d'Einstein*.
 
 📚 Pour découvrir l’énigme originale :  
-[https://en.wikipedia.org/wiki/Énigme d'Einstein](https://fr.wikipedia.org/wiki/%C3%89nigme_d%27Einstein)
+[https://fr.wikipedia.org/wiki/%C3%89nigme_d%27Einstein](https://fr.wikipedia.org/wiki/%C3%89nigme_d%27Einstein)
 
 ---
 
