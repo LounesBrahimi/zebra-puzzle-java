@@ -1,3 +1,6 @@
+![Java](https://img.shields.io/badge/Java-11+-blue?style=flat-square&logo=java)
+![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
+
 # 🧠 Zebra Puzzle – Résolution en Java
 
 Ce projet est une implémentation optimisée en Java du célèbre **Zebra Puzzle**, aussi appelé *l'énigme d'Einstein*.
